@@ -12,7 +12,7 @@ Isaac</a></h1>
 
 - 🤝 Estoy disponible para trabajos en equipo.
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Preguntame cual es mi lenguaje preferido.
 
 - 📫 Como contactarme *canulisaac75@gmail.com**
 
@@ -43,7 +43,6 @@ Isaac</a></h1>
 
 </div>
 
-</p>
 
 ### Conóceme 
 
@@ -57,6 +56,6 @@ Actualmente sigo fortaleciendo mis conocimientos en programación, bases de dato
 
 ---
 
-Credit: [Isaac Canul](https://github.com/IsaacCanul)
+Creditos: [Isaac Canul](https://github.com/IsaacCanul)
 
-Last Edited on: 28/03/2026
+Ultima actualización: 28/03/2026
