@@ -19,29 +19,24 @@ Isaac</a></h1>
 - 📄 Conoce mis experiencias <a href="https://github.com/IsaacCanul" target="blank">Portafolio</a>
 <br/>
 <h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
   Descubreme 🤝
 </h3>
 
-<div align="center">
-
-<a href="https://linkedin.com/in/canul-perera-isaac-adrian-064740239" target="_blank">
-  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
-</a>
-
-<a href="https://github.com/IsaacCanul" target="_blank">
-  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"/>
-</a>
-
-<a href="https://www.instagram.com/isaac_adrian_canul" target="_blank">
-  <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"/>
-</a>
-
-<a href="https://www.youtube.com/@canulpereraisaacadrian83" target="_blank">
-  <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/canul-perera-isaac-adrian-064740239" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+  </a>
+  <a href="https://github.com/IsaacCanul" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"/>
+  </a>
+  <a href="https://www.instagram.com/isaac_adrian_canul" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"/>
+  </a>
+  <a href="https://www.youtube.com/@canulpereraisaacadrian83" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png"/>
+  </a>
+</p>
 
 
 ### Conóceme 
