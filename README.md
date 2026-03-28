@@ -24,6 +24,7 @@ Isaac</a></h1>
 </h3>
 
 <p align="center">
+  <div align="center"  class="icons-social" style="margin-left: 10px;">
   <a href="https://linkedin.com/in/canul-perera-isaac-adrian-064740239" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
   </a>
@@ -36,6 +37,8 @@ Isaac</a></h1>
   <a href="https://www.youtube.com/@canulpereraisaacadrian83" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png"/>
   </a>
+    </div>
+
 </p>
 
 
